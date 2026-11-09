@@ -18,7 +18,7 @@ This is the official GitHub organization of wylon, home to our open-source proje
 
 - **SDKs and examples** for building on the wylon API
 - **Developer tools** for inference workflows
-- **Ecosystem plugins**, such as ComfyUI custom nodes
+- **Ecosystem plugins** and integrations
 
 Repositories will appear here as they're published.
 
