@@ -12,7 +12,6 @@ This is the official GitHub organization of wylon, home to our open-source proje
 |---|---|
 | **One key for the harnesses you use** | Codex, OpenCode, OpenClaw, Hermes and other agents connect with a few lines of config |
 | **Image and video generation too** | The same API key calls image and video generation models |
-| **Token plans** | From ¥9.9 a month, billed monthly, with no 5-hour or weekly caps |
 | **Enterprise** | Dedicated plans, model allowlisting, higher rate limits, and early access to GPU Supernode |
 
 ## Open source
